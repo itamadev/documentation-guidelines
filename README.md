@@ -1,2 +1,2 @@
-# documentation-horsemen
-How to keep your code and services documented.
+# 📄 documentation guidelines
+How to keep your code, services and poducts documented.
